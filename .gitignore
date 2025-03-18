@@ -178,4 +178,4 @@ papers/
 datasets/
 flagged/
 *.csv
-models/best_model.pth
+weights/best_model.pth
