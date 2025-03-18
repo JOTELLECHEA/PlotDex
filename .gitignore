@@ -175,7 +175,7 @@ cython_debug/
 
 # Project data
 papers/
-plot_dataset/
+datasets/
 flagged/
 *.csv
-*.pth
+models/best_model.pth
